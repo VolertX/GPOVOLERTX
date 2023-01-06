@@ -1,1 +1,1 @@
-game:GetService('Players').LocalPlayer:Kick('use new script')
+loadstring(game:HttpGet('https://scripts.luawl.com/14908/VolertXN1.lua'))()
